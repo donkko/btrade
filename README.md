@@ -1,13 +1,13 @@
 # btrade
 머신러닝 기반 자동 주식거래 시스템 btrade
 
-## btrade/crawler
+## src/crawler
 머신러닝을 위한 학습데이터 크롤러
 
-## btrade/predictor
+## src/predictor
 크롤링된 데이터를 기반으로 학습, 다음날의 주가를 예측하는 머신러닝 모델
 
-## btrade/trader
+## src/trader
 예측된 데이터를 기반으로 실제 주식거래를 실행하는 클라이언트
 
 # README #
