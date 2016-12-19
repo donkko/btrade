@@ -11,7 +11,7 @@
 예측된 데이터를 기반으로 실제 주식거래를 실행하는 클라이언트
 
 ### Contact ###
-nudonkko@gmail.com
+nudonkko/gmail/com
 
 # README #
 
